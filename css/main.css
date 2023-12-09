@@ -5,7 +5,7 @@ body{
     position: relative;
     width: 100%;
     height: 800px;
-    background-image: url(/img/bg.png);
+    background-image: url(img/bg.png);
     background-size: cover;
 }
 .backgraund-dark{
@@ -189,14 +189,14 @@ h3{
   content: "";
   width: 700px;
   height: 50px;
-  background-image: url(/img/dotted-line.jpg);
+  background-image: url(img/dotted-line.jpg);
   background-repeat: repeat-x;
 }
 .world-img::before{
   content: "";
   width: 700px;
   height: 50px;
-  background-image: url(/img/dotted-line.jpg);
+  background-image: url(img/dotted-line.jpg);
   background-repeat: repeat-x;
 }
 .world-img img{
