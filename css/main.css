@@ -119,7 +119,7 @@ h3{
     background-image: linear-gradient(
       45deg,
       #070801 50%,
-      #f2cfed 50%
+      #3d0c36 50%
     );
     background-size: 190%;
     background-repeat: repeat;
@@ -160,7 +160,7 @@ h3{
   }
   
   #animation-button {
-    background-image: linear-gradient(45deg, transparent 50%, #0a4234 50%);
+    background-image: linear-gradient(45deg,  #0a4234 50%, yellow 50%);
     background-size: 270%;
     background-repeat: repeat;
     background-position: top right;
